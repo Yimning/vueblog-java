@@ -58,5 +58,4 @@ public class AccountController {
         SecurityUtils.getSubject().logout();
         return Result.succ(null);
     }
-
 }

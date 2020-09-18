@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 @Data
 public class LoginDto implements Serializable {
-
+  //实体校验
     @NotBlank(message = "昵称不能为空")
     private String username;
 
