@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3875f500-7c57-4c59-96a4-50d95fd9edaa" name="Default Changelist" comment="" />
+    <list default="true" id="3875f500-7c57-4c59-96a4-50d95fd9edaa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/markerhub/controller/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/markerhub/controller/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/markerhub/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/markerhub/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/markerhub/controller/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/markerhub/controller/AccountController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +28,7 @@
     <select />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vueblog-java" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -55,12 +61,22 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.4643678" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\E盘(文件)\IdeaProjects\vueblog-java\src\main\resources" />
     </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 7 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="RunManager" selected="Application.VueblogApplication">
     <configuration name="VueblogApplication" type="Application" factoryName="Application">
@@ -100,7 +116,17 @@
       <workItem from="1599368399220" duration="10914000" />
       <workItem from="1599453615017" duration="151000" />
       <workItem from="1600345651391" duration="8288000" />
-      <workItem from="1600391727589" duration="5818000" />
+      <workItem from="1600391727589" duration="7044000" />
+      <workItem from="1600409089513" duration="1082000" />
+      <workItem from="1600413305535" duration="777000" />
+      <workItem from="1602064028902" duration="1226000" />
+      <workItem from="1602137610511" duration="1105000" />
+      <workItem from="1602238878176" duration="1467000" />
+      <workItem from="1604330165862" duration="1532000" />
+      <workItem from="1604370686709" duration="3001000" />
+      <workItem from="1604456818674" duration="29000" />
+      <workItem from="1604463648767" duration="61000" />
+      <workItem from="1604803393361" duration="730000" />
     </task>
     <servers />
   </component>
@@ -116,30 +142,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="146" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1598618629316" />
-    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1598837691245">
+    <state x="460" y="105" key="FileChooserDialogImpl" timestamp="1604804151825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598837691245" />
-    <state width="1323" height="105" key="GridCell.Tab.0.bottom" timestamp="1599406699138">
+    <state x="460" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604804151825" />
+    <state x="534" y="254" key="Github.ShareDialog" timestamp="1604804024579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599406699138" />
-    <state width="1323" height="105" key="GridCell.Tab.0.center" timestamp="1599406699137">
+    <state x="534" y="254" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604804024579" />
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom" timestamp="1602168592410">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599406699137" />
-    <state width="1323" height="105" key="GridCell.Tab.0.left" timestamp="1599406699137">
+    <state width="1323" height="270" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602168592410" />
+    <state width="1323" height="270" key="GridCell.Tab.0.center" timestamp="1602168592410">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599406699137" />
-    <state width="1323" height="105" key="GridCell.Tab.0.right" timestamp="1599406699137">
+    <state width="1323" height="270" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602168592410" />
+    <state width="1323" height="270" key="GridCell.Tab.0.left" timestamp="1602168592410">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599406699137" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1598619899913">
+    <state width="1323" height="270" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602168592410" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right" timestamp="1602168592410">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598619899913" />
+    <state width="1323" height="270" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602168592410" />
+    <state x="107" y="12" key="SettingsEditor" timestamp="1604804125036">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="107" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604804125036" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604803891891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604803891891" />
     <state x="359" y="97" width="647" height="534" key="find.popup" timestamp="1600350713211">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -152,5 +186,48 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600394311064" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
   </component>
 </project>
